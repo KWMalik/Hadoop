@@ -1,0 +1,1 @@
+java -cp /usr/lib/hadoop//lib/commons-logging-1.0.4.jar:/usr/lib/hadoop//contrib/mrunit/hadoop-mrunit-0.20.2-cdh3u1.jar:/usr/lib/hadoop/hadoop-core-0.20.2-cdh3u1.jar:/usr/lib/hadoop//lib/junit-4.5.jar:training.jar org.junit.runner.JUnitCore com.cloudera.training.mrunit.TestExample
